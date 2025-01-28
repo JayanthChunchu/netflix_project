@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows Data Analysis using SQL
+# Netflix Movies and TV Shows Data Analysis using SQL 
 ![logo](https://github.com/user-attachments/assets/015d3784-0849-46cf-bd50-6d52aaeaf67c)
 
 
